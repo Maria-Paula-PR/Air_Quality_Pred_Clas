@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/daftamayo/Downloads/Air_Quality_Pred_Clas-main/mlruns/0/25e5da01783c424aacf1e50f345d0fba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25e5da01783c424aacf1e50f345d0fba
+run_name: sedate-eel-734
+run_uuid: 25e5da01783c424aacf1e50f345d0fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747199295472
+status: 1
+tags: []
+user_id: daftamayo

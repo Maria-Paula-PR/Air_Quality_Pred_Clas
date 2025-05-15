@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/daftamayo/Downloads/Air_Quality_Pred_Clas-main/mlruns/0/da0c0f2c067e454188d64952999611d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da0c0f2c067e454188d64952999611d7
+run_name: clean-panda-472
+run_uuid: da0c0f2c067e454188d64952999611d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747199318628
+status: 1
+tags: []
+user_id: daftamayo
